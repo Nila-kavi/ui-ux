@@ -1,0 +1,54 @@
+{
+  "initialGender": "Women",
+  "clothes": [
+    {
+      "id": "shirts",
+      "name": "Shirts",
+      "quantity": 3,
+      "icon": "shirt"
+    },
+    {
+      "id": "pants",
+      "name": "Pants",
+      "quantity": 2,
+      "icon": "pants"
+    },
+    {
+      "id": "dresses",
+      "name": "Dresses",
+      "quantity": 1,
+      "icon": "dress"
+    },
+    {
+      "id": "jackets",
+      "name": "Jackets",
+      "quantity": 0,
+      "icon": "jacket"
+    }
+  ],
+  "services": [
+    {
+      "name": "Wash & Fold",
+      "description": "Everyday laundry washed, dried, and folded.",
+      "icon": "fold"
+    },
+    {
+      "name": "Wash & Iron",
+      "description": "Washed, dried, and professionally pressed.",
+      "icon": "iron"
+    },
+    {
+      "name": "Dry Cleaning",
+      "description": "Specialized care for delicate fabrics.",
+      "icon": "dryclean"
+    }
+  ],
+  "pickup": {
+    "date": "2026-08-20",
+    "time": "10:00 AM – 12:00 PM"
+  },
+  "delivery": {
+    "date": "2026-08-22",
+    "time": "5:00 PM – 7:00 PM"
+  }
+}
